@@ -9,7 +9,7 @@ package practica4;
  *
  * @author Juan Llado
  */
-public  class Mascota {
+public  class Mascota implements NewInterface {
     private String nombre;
     private int edad;
 
@@ -43,6 +43,7 @@ public  class Mascota {
     }
 
     
+    @Override
     public void sonido() {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
