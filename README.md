@@ -17,11 +17,73 @@
 6.	Sube a máster lo anterior y actualiza la versión.
 
 ## Criterios 
+
 -   Realiza el control de versiones con versionado semántico.
--	Aplica comentarios en formato JavaDoc.
--	Utiliza Markdown para explicar lo que has hecho en la práctica.
+-	  Aplica comentarios en formato JavaDoc.
+-	  Utiliza Markdown para explicar lo que has hecho en la práctica.
+
+## Comandos útiles
+
+Añadir todos los archivos para hacer el futuro commit
+~~~
+git add .
+~~~
+
+Hacer commit
+~~~
+git commit -m "Poner descripción del commit"
+~~~
+
+Subir a github
+~~~
+git remote add origin URLdeTuProyectoEnGithub
+git push origin main
+~~~
+
+Descargar de github a local
+~~~
+git pull URLdeTuProyectoEnGithub
+~~~
+
+Ver commits
+~~~
+git log --oneline
+~~~
+
+Poner tag (v1.0.0) a un commit anterior en concreto 
+~~~
+git tag -a v1.0.0 -m "Inicializacion proyecto" ee9c6ae
+~~~
+
+Ver ramificaciones
+~~~
+git branch
+~~~
+
+Crear ramificación
+~~~
+git branch nuevaRamificación
+~~~
+
+Moverse a nuevaRamificación
+~~~
+git checkout nuevaRamificacion
+~~~
+
+Subir nuevaRamificación a github
+~~~
+git push origin nuevaRamificacion
+~~~
+
+Fusionar ramificación actual con una subrama
+~~~
+git merge nuevaRamificacion
+~~~
+
 
 ## Recursos
+
+[Instalar git](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)
 
 [Markdown](https://markdown.es/)
 
