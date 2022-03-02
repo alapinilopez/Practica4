@@ -7,7 +7,7 @@ package practica4;
  *
  * @author Juan Llado
  */
-public class Gato extends Mascota {
+public class Gato extends Animal {
     
     private String color;
     private Adulto dueño;

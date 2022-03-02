@@ -11,16 +11,16 @@ import Interfaz.NewInterface;
  *
  * @author Juan Llado
  */
-public  class Mascota implements NewInterface {
+public abstract class Animal implements NewInterface {
     private String nombre;
     private int edad;
 
-    public Mascota(String nombre, int edad) {
+    public Animal(String nombre, int edad) {
         this.nombre = nombre;
         this.edad = edad;
     }
 
-    public Mascota() {
+    public Animal() {
     }
 
     public String getNombre() {
@@ -42,13 +42,6 @@ public  class Mascota implements NewInterface {
     @Override
     public String toString() {
         return "Mascota{" + "nombre=" + nombre + ", edad=" + edad + '}';
-    }
-
-    
-    @Override
-    public void sonido() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-    
+    } 
     
 }

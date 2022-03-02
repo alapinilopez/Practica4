@@ -10,6 +10,9 @@
  * $ git tag -a v1.3.0 -m "Mover NewInterface a paquete Interfaz" 805301e
  * $ git tag -a v1.4.0 -m "Update README.md" 886923b
  * $ git tag -a v1.5.0 -m "Update Gato.java" 14bb096
+ * ramificaciones
+ * git branch /ver ramificaciones
+ * git branch rama1 /crear ramificacion rama1
 */
 package practica4;
 
