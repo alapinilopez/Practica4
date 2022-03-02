@@ -23,7 +23,7 @@
 
 ## Recursos
 
-[Markdown] (https://markdown.es/)
-[Versionado semántico] (https://semver.org/lang/es/)
-[Tags en git] (https://juncotic.com/tag-en-git/)
+[Markdown](https://markdown.es/)
+[Versionado semántico](https://semver.org/lang/es/)
+[Tags en git](https://juncotic.com/tag-en-git/)
 
