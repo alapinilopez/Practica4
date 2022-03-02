@@ -53,9 +53,4 @@ public class Motor {
         return "Motor{" + "fabricante=" + fabricante + ", codigo=" + codigo + ", potencia=" + potencia + '}';
     }
     
-//    @Override
-//    public void sonido() {
-//        System.out.println( " hace BBBBRRRR");
-//    }
-    
 }

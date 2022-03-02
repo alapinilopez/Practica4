@@ -5,13 +5,14 @@
  */
 package practica4;
 
+import Interfaz.NewInterface;
 import java.util.Date;
 
 /**
  *
  * @author Juan Llado
  */
-public class Barco {
+public class Barco implements NewInterface{
     
     private Adulto dueño;
     private String nombreBarco;
@@ -97,7 +98,7 @@ public class Barco {
     }
 
     
-    
+    @Override
     public void sonido() {
         System.out.println(this.nombreBarco + " hace BBBBRRRR");
     }

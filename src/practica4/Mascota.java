@@ -5,6 +5,8 @@
  */
 package practica4;
 
+import Interfaz.NewInterface;
+
 /**
  *
  * @author Juan Llado
