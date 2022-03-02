@@ -18,9 +18,9 @@
 
 ## Criterios 
 
--   Realiza el control de versiones con versionado semántico.
--	  Aplica comentarios en formato JavaDoc.
--	  Utiliza Markdown para explicar lo que has hecho en la práctica.
+- Realiza el control de versiones con versionado semántico.
+-	Aplica comentarios en formato JavaDoc.
+-	Utiliza Markdown para explicar lo que has hecho en la práctica.
 
 ## Comandos útiles
 
