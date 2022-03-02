@@ -17,7 +17,7 @@
 6.	Sube a máster lo anterior y actualiza la versión.
 
 ## Criterios 
-- Realiza el control de versiones con versionado semántico.
+-   Realiza el control de versiones con versionado semántico.
 -	Aplica comentarios en formato JavaDoc.
 -	Utiliza Markdown para explicar lo que has hecho en la práctica.
 
@@ -25,7 +25,12 @@
 
 [Markdown](https://markdown.es/)
 
-[Versionado semántico](https://semver.org/lang/es/)
+[Curso git/Github](https://www.youtube.com/watch?v=w2o_rH4b5tA&list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU&index=6)
 
 [Tags en git](https://juncotic.com/tag-en-git/)
 
+[Versionado semántico](https://semver.org/lang/es/)
+
+[Tutorial versionado](https://www.youtube.com/watch?v=1B9iP611WUY&list=PLY1J8ju7Eq-TUBGmySQNivh2F1Yq0CgQj&index=18)
+
+[GitFlow](https://www.youtube.com/watch?v=atYIzPIeeQk&list=PLY1J8ju7Eq-TUBGmySQNivh2F1Yq0CgQj&index=19)
