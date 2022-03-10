@@ -3,7 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package practica4;
+package Interfaz;
+
+import practica4.Barco;
+import practica4.Gato;
+import practica4.Perro;
+import practica4.Persona;
 
 /**
  *
@@ -26,6 +31,11 @@ public class Adulto extends Persona{
     }
 
     public void setNSS(String NSS) {
+        
+        
+        
+        
+        
         this.NSS = NSS;
     }
 

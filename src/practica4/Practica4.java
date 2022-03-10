@@ -13,6 +13,9 @@
  * ramificaciones
  * git branch /ver ramificaciones
  * git branch rama1 /crear ramificacion rama1
+ * git checkout rama1 /moverte a rama1
+ * $ git push origin rama1 / subir rama1
+    
 */
 package practica4;
 

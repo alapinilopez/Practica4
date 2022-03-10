@@ -5,6 +5,7 @@
  */
 package practica4;
 
+import Interfaz.Adulto;
 import Interfaz.NewInterface;
 import java.util.Date;
 

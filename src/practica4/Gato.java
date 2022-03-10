@@ -3,6 +3,8 @@
  */
 package practica4;
 
+import Interfaz.Adulto;
+
 /**
  *
  * @author Juan Llado
