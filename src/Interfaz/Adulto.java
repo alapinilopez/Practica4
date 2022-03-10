@@ -33,6 +33,7 @@ public class Adulto extends Persona{
     public void setNSS(String NSS) {
         
         
+        System.out.println("");    
         
         
         
