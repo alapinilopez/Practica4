@@ -20,13 +20,14 @@ package practica4;
  *
  * @author Juan Llado
  */
-public class Practica4 {
+public class MAIN {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("");
+        
     }
     
 }
