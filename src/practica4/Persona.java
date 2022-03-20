@@ -36,6 +36,22 @@ public abstract class Persona {
         return nombre;
     }
 
+    public Gato getGato() {
+        return gato;
+    }
+
+    public void setGato(Gato gato) {
+        this.gato = gato;
+    }
+
+    public Perro getPerro() {
+        return perro;
+    }
+
+    public void setPerro(Perro perro) {
+        this.perro = perro;
+    }
+
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
