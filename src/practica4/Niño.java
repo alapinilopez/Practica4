@@ -18,10 +18,7 @@ public class Niño extends Persona{
         super(nombre, DNI, edad);
         this.colegio = colegio;
     }
-    
-    public void comprarJuguete(Juguete juguete){
-        this.juguete = juguete;
-    }
+
 
     public String getColegio() {
         return colegio;
@@ -35,7 +32,13 @@ public class Niño extends Persona{
     public String toString() {
         return "Ni\u00f1o{" + "colegio=" + colegio + '}';
     }
-    
-    
-    
+
+
+    public Juguete getJuguete() {
+        return juguete;
+    }
+
+    public void setJuguete(Juguete juguete) {
+        this.juguete = juguete;
+    }
 }

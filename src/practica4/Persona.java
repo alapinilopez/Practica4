@@ -26,11 +26,6 @@ public abstract class Persona {
     public Persona() {
     }
 
-    @Override
-    public String toString() {
-        return "Persona{" + "nombre=" + nombre + ", DNI=" + DNI + ", edad=" + edad + '}';
-    }
-
     
     public String getNombre() {
         return nombre;
@@ -71,5 +66,9 @@ public abstract class Persona {
     public void setEdad(int edad) {
         this.edad = edad;
     }
-        
+
+    @Override
+    public String toString() {
+        return "Persona{" + "nombre=" + nombre + ", DNI=" + DNI + ", edad=" + edad + '}';
+    }
 }
