@@ -1,4 +1,6 @@
 # Práctica 4 
+ED4: **Lapini Alessandro, Serra Josep** 
+
 Práctica realizada por Alessandro Lapini y Josep Serra, alumnos de 1º DAW DUAL.
 
 Paso 1: Hacemos un fork del proyecto original.
@@ -54,4 +56,13 @@ El segundo refactor lo consideramos un cambio menor, ya que refactorizamos el ge
 
 Paso 9: fusionamos la rama develop a la main con los cambios realizados.
 
+````
+git merge --no-ff develop
+````
+
+# JavaDoc
+
+Para realizar los comentarios en javaDoc he instalado una extension llamada __Javadoc Tools__:
+
+![javadoc](./images/javadoc.PNG)
 
