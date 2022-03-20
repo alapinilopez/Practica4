@@ -1,4 +1,4 @@
-# Práctica 4 
+# ED4 
 ED4: **Lapini Alessandro, Serra Josep** 
 
 Práctica realizada por Alessandro Lapini y Josep Serra, alumnos de 1º DAW DUAL.
@@ -65,4 +65,12 @@ git merge --no-ff develop
 Para realizar los comentarios en javaDoc he instalado una extension llamada __Javadoc Tools__:
 
 ![javadoc](./images/javadoc.PNG)
+
+Realizamos el add-commit-push
+
+![javadoc](./images/javadoccom.PNG)
+
+Asignamos un tag al cambio de java doc 
+
+![javadoc](./images/tagjavadoc.PNG)
 
